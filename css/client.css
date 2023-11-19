@@ -1,0 +1,8 @@
+.card {
+    border-color: dodgerblue;
+    border-style: none;
+}
+
+.card-body {
+    background: white;
+}
